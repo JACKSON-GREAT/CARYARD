@@ -1,0 +1,62 @@
+*{
+  margin: 0%;
+  padding: 0%;
+
+}
+
+
+
+
+header{
+  text-align: center;
+  font-family: 'Times New Roman';
+  text-decoration: none;
+  font-size: 30pt;
+  background-color: rgb(166, 166, 216);
+  padding: 25pt;
+  
+  
+
+}
+nav{
+  width: 400px;
+  float: left;
+  height: 70px;
+  margin-top: 20pt;
+}
+
+ul{
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul li{
+  list-style: none;
+  margin-left: 130px;
+}
+
+ul li a{
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  text-decoration: underline;
+}
+ul li a:hover {
+  color: rgb(12, 218, 39);
+}
+.story{
+  width: 200pt;
+  height: 120pt;
+  margin-left: 20pt;
+  
+}
+.riba{
+  width: 200pt;
+  height: 120pt;
+  margin-left: 690pt;
+  margin-top: -210pt;
+}
+
+
